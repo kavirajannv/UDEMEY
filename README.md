@@ -27,6 +27,11 @@ It focuses on front-end development using HTML, CSS, and JavaScript, simulating 
 - **HTML5** — For the website structure  
 - **CSS3** — For styling and responsive layout  
 - **JavaScript (ES6)** — For interactivity and dynamic UI
+
+**//Responsive Video**//
+
+
+
 -  <img width="1918" height="1025" alt="Screenshot 2025-09-22 144955" src="https://github.com/user-attachments/assets/3e2620e2-7299-46fa-808b-cbe6351a9826" />
 - <img width="1920" height="1080" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/915c344c-a0d0-4644-a14f-b06dc000c655" />
 <img width="1920" height="1080" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/1f6819de-f75b-4857-a938-c14e53022e6c" />
