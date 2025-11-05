@@ -1,4 +1,4 @@
-# 🎓 Udemy Clone
+# 🎓 Udemy Clone URl Link: https://kavirajannv.github.io/UDEMEY/
 
 A **Udemy Clone** website built using **HTML**, **CSS**, and **JavaScript**.  
 This project replicates the front-end design and core UI of the popular Udemy learning platform.  
